@@ -1,0 +1,6004 @@
+ let a = {
+  "success": 1,
+  "searchText": "bottle",
+  "data1": [
+    {
+      "_index": "products",
+      "_id": "uAD2c4YB0RfxyiiGVGbq",
+      "_score": null,
+      "_source": {
+        "productId": 12317891,
+        "listingType": "SELLER_FULFILLED",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1671435273,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 10026925,
+          "name": "viraj",
+          "profilePic": "https://cdn1.coutloot.com/profileImages/image_6b1gy0t0jil_1658137258584.jpeg",
+          "email": "tcoutloot@gmail.com",
+          "mobile": "7021499307",
+          "city": "Bengaluru",
+          "role": "SHOP",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1153517,
+            "pincode": "560099"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_dezck1yw148_1671435230435.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_dezck1yw148_1671435230435.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_dezck1yw148_1671435230435.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "VTneck Tshirt New",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Peach Orange",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 63,
+              "priceDetails": {
+                "pickupCharges": 0,
+                "userEarnings": 13860,
+                "percentOff": -15,
+                "commisionPercent": 0,
+                "userEarning": 13860,
+                "listedPrice": 13860,
+                "pricePerPiece": 1155,
+                "commision": 0,
+                "vendorPricePerPiece": 1000,
+                "gstPercent": 5,
+                "labelPrice": 12000
+              },
+              "sku": "GdZ3I88RuxlbwHB-pf4RJ",
+              "variantName": "XXL",
+              "setOf": 12
+            }
+          ],
+          "productUrl": "https://cout.link/p/DMmr6",
+          "description": "Description: "
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "ACTIVE",
+          "bargainPercent": 10
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "uploadedBy": "ANDROID",
+        "sellerLastUpdated": 1673868013,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionRank": 0.987951,
+        "promotionDetails": {
+          "impressions": 93732,
+          "views": 10862
+        },
+        "category": {
+          "categoryId": "1562350160389",
+          "categoryName": "T-Shirts",
+          "categoryStringArray": [
+            "mens-fashion",
+            "topwear",
+            "t-shirts"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562350123773",
+            "1562350160389"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "XXL"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            13860
+          ]
+        },
+        "lastUpdated": 1677563718,
+        "lastSyncTime": 1677563718,
+        "collections": [
+          4455,
+          4456,
+          4457,
+          4458,
+          4459,
+          4460
+        ]
+      },
+      "sort": [
+        0,
+        12317891
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "VKb-OoYBO3q-w-DMr9hH",
+      "_score": null,
+      "_source": {
+        "productId": 12259217,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1669110055,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9344091,
+          "name": "MT HUB ",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "nareshmakwana8090@gmail.com",
+          "mobile": "9773278547",
+          "city": "Surat",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1147073,
+            "pincode": "395009"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_wufxheh6epm_1669109842212.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_ty8k9ptitx_1669109842665.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_qgcqfv4ln69_1669109843024.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_rhfjq6zzukq_1669109847218.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_wufxheh6epm_1669109842212.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_ty8k9ptitx_1669109842665.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_qgcqfv4ln69_1669109843024.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_rhfjq6zzukq_1669109847218.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_wufxheh6epm_1669109842212.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_ty8k9ptitx_1669109842665.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_qgcqfv4ln69_1669109843024.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_rhfjq6zzukq_1669109847218.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Toby Kids Study Table and Chait/Kids Study Table ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Blue",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 9,
+              "priceDetails": {
+                "pickupCharges": 60,
+                "percentOff": 20,
+                "commisionPercent": 20,
+                "userEarning": 2176,
+                "listedPrice": 2795,
+                "commision": 559,
+                "labelPrice": 3495
+              },
+              "sku": "O8fdz7_yTUpuyAQ1coHx1",
+              "variantName": "Blue"
+            },
+            {
+              "default": 0,
+              "quantity": 10,
+              "priceDetails": {
+                "pickupCharges": 60,
+                "percentOff": 20,
+                "commisionPercent": 20,
+                "userEarning": 2176,
+                "listedPrice": 2795,
+                "commision": 559,
+                "labelPrice": 3495
+              },
+              "sku": "dXhCFz-sYZpW1ghVYk1r2",
+              "variantName": "Green"
+            },
+            {
+              "default": 0,
+              "quantity": 10,
+              "priceDetails": {
+                "pickupCharges": 60,
+                "percentOff": 20,
+                "commisionPercent": 20,
+                "userEarning": 2176,
+                "listedPrice": 2795,
+                "commision": 559,
+                "labelPrice": 3495
+              },
+              "sku": "9mE-Sh1FEkRyvlURv-PWV",
+              "variantName": "Red"
+            },
+            {
+              "default": 0,
+              "quantity": 10,
+              "priceDetails": {
+                "pickupCharges": 60,
+                "percentOff": 20,
+                "commisionPercent": 20,
+                "userEarning": 2176,
+                "listedPrice": 2795,
+                "commision": 559,
+                "labelPrice": 3495
+              },
+              "sku": "LDwjOMmFhuwxuBCtzGyru",
+              "variantName": "Pink"
+            }
+          ],
+          "productUrl": "https://cout.link/p/IJcRl"
+        },
+        "productCount": 1,
+        "varientCount": 4,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1669113672,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionRank": 0.990011,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562402442261",
+          "categoryName": "Books & Magazines",
+          "categoryStringArray": [
+            "hobbies",
+            "books-magazines"
+          ],
+          "categoryIdArray": [
+            "1562402412797",
+            "1562402442261"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Blue",
+            "Green",
+            "Red",
+            "Pink"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            2795,
+            2795,
+            2795,
+            2795
+          ]
+        },
+        "lastUpdated": 1677564482,
+        "lastSyncTime": 1677564482,
+        "collections": [
+          4455,
+          4456,
+          4457,
+          4458,
+          4459,
+          4460,
+          4461
+        ]
+      },
+      "sort": [
+        0,
+        12259217
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "5ab-OoYBO3q-w-DM19s_",
+      "_score": null,
+      "_source": {
+        "productId": 12257031,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1669014500,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9660294,
+          "name": "Bangle Store ",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "alisyedfaizal311@gmail.com",
+          "mobile": "7878668420",
+          "city": "Ajmer",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1174056,
+            "pincode": "305001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_vzigg9sloy_1669014175937.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_95jyxsijid_1669014178168.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_vzigg9sloy_1669014175937.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_95jyxsijid_1669014178168.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_vzigg9sloy_1669014175937.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_95jyxsijid_1669014178168.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Fabric Crystal Bangle Orange",
+          "condition": "NEW",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "NEW",
+              "key": "condition"
+            },
+            {
+              "value": "NA",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 9,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 38,
+                "commisionPercent": 10,
+                "userEarning": 175,
+                "listedPrice": 250,
+                "commision": 25,
+                "labelPrice": 400
+              },
+              "sku": "nbQbCtaPR82mRUXcSOVnf",
+              "variantName": "Orange"
+            }
+          ],
+          "productUrl": "https://cout.link/p/nqKkN",
+          "description": "Description: "
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "promoted": 1,
+        "sellerLastUpdated": 1669121962,
+        "sellerLastUpdatedValue": 1,
+        "promotionDetails": {
+          "impressions": 1181,
+          "views": 150
+        },
+        "promotionRank": 0.992316,
+        "discoveryRank": 40,
+        "productRank": 40,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562348082049",
+          "categoryName": "Bracelets & Bangles",
+          "categoryStringArray": [
+            "womens-fashion",
+            "jewellery",
+            "bracelets-bangles"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562347990721",
+            "1562348082049"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Orange"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            250
+          ]
+        },
+        "lastUpdated": 1677564487,
+        "lastSyncTime": 1677564487,
+        "collections": [
+          4455,
+          4456,
+          4457,
+          4458,
+          4459,
+          4460,
+          4461
+        ]
+      },
+      "sort": [
+        0,
+        12257031
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "tqb-OoYBO3q-w-DM8t7l",
+      "_score": null,
+      "_source": {
+        "productId": 12254648,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668891244,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9656027,
+          "name": "CoutlootUser",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "8013508258",
+          "city": "Howrah",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1173531,
+            "pincode": "711403"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_ad9tka3528i_1668890558108.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_ad9tka3528i_1668890558108.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_ad9tka3528i_1668890558108.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Girls Kids Dress pink Color",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Pink",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "userEarnings": 456,
+                "percentOff": 56,
+                "commisionPercent": 10,
+                "userEarning": 449,
+                "listedPrice": 555,
+                "commision": 56,
+                "labelPrice": 999
+              },
+              "sku": "x2_ek_hYW1sxP0aoT_OH_",
+              "variantName": "4 -5 yrs"
+            },
+            {
+              "default": 0,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "userEarnings": 456,
+                "percentOff": 56,
+                "commisionPercent": 10,
+                "userEarning": 449,
+                "listedPrice": 555,
+                "commision": 56,
+                "labelPrice": 999
+              },
+              "sku": "_PQOshIo2NNqlZOIBijAg",
+              "variantName": "5 -6 yrs"
+            },
+            {
+              "default": 0,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "userEarnings": 355,
+                "percentOff": 56,
+                "commisionPercent": 10,
+                "userEarning": 449,
+                "listedPrice": 555,
+                "commision": 56,
+                "labelPrice": 999
+              },
+              "sku": "aNFYAZoFc7a_16LvSZo92",
+              "variantName": "6 -7 yrs"
+            },
+            {
+              "default": 0,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "userEarnings": 355,
+                "percentOff": 56,
+                "commisionPercent": 10,
+                "userEarning": 449,
+                "listedPrice": 555,
+                "commision": 56,
+                "labelPrice": 999
+              },
+              "sku": "A0GE4t_jUa9CAq5ctTAv4",
+              "variantName": "7 -8 yrs"
+            },
+            {
+              "default": 0,
+              "quantity": 99,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "userEarnings": 355,
+                "percentOff": 56,
+                "commisionPercent": 10,
+                "userEarning": 449,
+                "listedPrice": 555,
+                "commision": 56,
+                "labelPrice": 999
+              },
+              "sku": "yNLmCKycXutDRvZ_X0nXn",
+              "variantName": "8 -9 yrs"
+            },
+            {
+              "default": 0,
+              "quantity": 99,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "userEarnings": 355,
+                "percentOff": 56,
+                "commisionPercent": 10,
+                "userEarning": 449,
+                "listedPrice": 555,
+                "commision": 56,
+                "labelPrice": 999
+              },
+              "sku": "c3Z1HX4vnMYJuo8bqAQmu",
+              "variantName": "9 -10 yrs"
+            }
+          ],
+          "productUrl": "https://cout.link/p/I4OpZ",
+          "description": "good qualty"
+        },
+        "productCount": 1,
+        "varientCount": 6,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2428,
+          "views": 251
+        },
+        "promotionRank": 0.996592,
+        "discoveryRank": 40,
+        "productRank": 40,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1579886667532",
+          "categoryName": "Girl Clothes",
+          "categoryStringArray": [
+            "kids-collection",
+            "girl-clothes"
+          ],
+          "categoryIdArray": [
+            "1557149626490",
+            "1579886667532"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "4_5_yrs",
+            "5_6_yrs",
+            "6_7_yrs",
+            "7_8_yrs",
+            "8_9_yrs",
+            "9_10_yrs"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            555,
+            555,
+            555,
+            555,
+            555,
+            555
+          ]
+        },
+        "lastUpdated": 1677564487,
+        "lastSyncTime": 1677564487,
+        "collections": [
+          4455,
+          4456,
+          4457,
+          4458,
+          4459,
+          4460,
+          4461
+        ]
+      },
+      "sort": [
+        0,
+        12254648
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Kab-OoYBO3q-w-DM9t95",
+      "_score": null,
+      "_source": {
+        "productId": 12254144,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668876351,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 33870,
+          "name": "coutloot user",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/P.png",
+          "email": "poonamnanda3005@gmail.com",
+          "mobile": "9717952323",
+          "city": "Delhi",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 835794,
+            "pincode": "110032"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_gudomamsv9e_1668876309350.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_y1xjptasbdm_1668876309421.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_am0n85v6rdb_1668876309671.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_gudomamsv9e_1668876309350.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_y1xjptasbdm_1668876309421.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_am0n85v6rdb_1668876309671.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_gudomamsv9e_1668876309350.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_y1xjptasbdm_1668876309421.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_am0n85v6rdb_1668876309671.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Pink Hoodie ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "new"
+            },
+            {
+              "key": "color",
+              "value": "Pink"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "_D640cHEtTsrSSUl1iy1i",
+              "variantName": "L",
+              "priceDetails": {
+                "labelPrice": 2000,
+                "listedPrice": 600,
+                "percentOff": 70,
+                "commisionPercent": 9,
+                "commision": 54,
+                "pickupCharges": 50,
+                "userEarning": 496
+              },
+              "quantity": 1
+            }
+          ],
+          "productUrl": "https://cout.link/p/u94oE"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1669119238,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2197,
+          "views": 229
+        },
+        "promotionRank": 0.996274,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562346506401",
+          "categoryName": "Sweatshirts",
+          "categoryStringArray": [
+            "womens-fashion",
+            "topwear",
+            "sweatshirts"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562345101706",
+            "1562346506401"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "L"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            600
+          ]
+        },
+        "lastUpdated": 1676027033,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12254144
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "K6b-OoYBO3q-w-DM9t-H",
+      "_score": null,
+      "_source": {
+        "productId": 12254142,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668876295,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 33870,
+          "name": "coutloot user",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/P.png",
+          "email": "poonamnanda3005@gmail.com",
+          "mobile": "9717952323",
+          "city": "Delhi",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 835794,
+            "pincode": "110032"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_yfeksw2kc9e_1668876242288.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_fyhk1uekd6w_1668876242324.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_yl7ar0ha66_1668876242528.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_yfeksw2kc9e_1668876242288.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_fyhk1uekd6w_1668876242324.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_yl7ar0ha66_1668876242528.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_yfeksw2kc9e_1668876242288.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_fyhk1uekd6w_1668876242324.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_yl7ar0ha66_1668876242528.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Red Black Hoodie",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "new"
+            },
+            {
+              "key": "color",
+              "value": "Black"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "z-J0eJ8gSfTzDJv2AW5Jv",
+              "variantName": "L",
+              "priceDetails": {
+                "labelPrice": 2000,
+                "listedPrice": 600,
+                "percentOff": 70,
+                "commisionPercent": 9,
+                "commision": 54,
+                "pickupCharges": 50,
+                "userEarning": 496
+              },
+              "quantity": 1
+            }
+          ],
+          "productUrl": "https://cout.link/p/bWmPe"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1669119238,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2112,
+          "views": 232
+        },
+        "promotionRank": 0.950662,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562346506401",
+          "categoryName": "Sweatshirts",
+          "categoryStringArray": [
+            "womens-fashion",
+            "topwear",
+            "sweatshirts"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562345101706",
+            "1562346506401"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "L"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            600
+          ]
+        },
+        "lastUpdated": 1676027033,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12254142
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "LKb-OoYBO3q-w-DM9t-P",
+      "_score": null,
+      "_source": {
+        "productId": 12254103,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668876228,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 33870,
+          "name": "coutloot user",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/P.png",
+          "email": "poonamnanda3005@gmail.com",
+          "mobile": "9717952323",
+          "city": "Delhi",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 835794,
+            "pincode": "110032"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_yn1k0q50rad_1668876191316.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_x61tr9du0c_1668876191844.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_tl8amigpkrm_1668876192541.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_yn1k0q50rad_1668876191316.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_x61tr9du0c_1668876191844.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_tl8amigpkrm_1668876192541.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_yn1k0q50rad_1668876191316.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_x61tr9du0c_1668876191844.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_tl8amigpkrm_1668876192541.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Red Hoodie ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "new"
+            },
+            {
+              "key": "color",
+              "value": "Red"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "DCMhmD-eOd5_daVRC3uvs",
+              "variantName": "XL",
+              "priceDetails": {
+                "labelPrice": 2000,
+                "listedPrice": 600,
+                "percentOff": 70,
+                "commisionPercent": 9,
+                "commision": 54,
+                "pickupCharges": 50,
+                "userEarning": 496
+              },
+              "quantity": 1
+            }
+          ],
+          "productUrl": "https://cout.link/p/f5LfN"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1669119238,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 1971,
+          "views": 271
+        },
+        "promotionRank": 0.974286,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562346506401",
+          "categoryName": "Sweatshirts",
+          "categoryStringArray": [
+            "womens-fashion",
+            "topwear",
+            "sweatshirts"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562345101706",
+            "1562346506401"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "XL"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            600
+          ]
+        },
+        "lastUpdated": 1676027033,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12254103
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Lab-OoYBO3q-w-DM9t-V",
+      "_score": null,
+      "_source": {
+        "productId": 12254089,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668875341,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9655596,
+          "name": "CoutlootUser",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7005102196",
+          "city": "Noida",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1173466,
+            "pincode": "201304"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_87466nuuao6_1668875127143.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_87466nuuao6_1668875127143.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_87466nuuao6_1668875127143.jpeg"
+          ],
+          "videoId": "aQs5cbev2kQKTxS0oW3Mz",
+          "videos": [
+            "https://coutloot-videos.projectx38.cloud/videosTest/keyrc4galu_1668875127262_trimmed_video_2022_10_19_21_55_15.mp4/1668875127262_trimmed_video_2022_10_19_21_55_15.mp4_.m3u8"
+          ],
+          "videoThumbs": [
+            "https://cdn1.coutloot.com/videoThumbnails/6p0q141gg9g_1668875150894.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Wart Remover Cream Mask Buy 1 Get 1 Free Offer (P",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Other",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 2,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 68,
+                "commisionPercent": 10,
+                "userEarning": 354,
+                "listedPrice": 449,
+                "commision": 45,
+                "labelPrice": 1399
+              },
+              "sku": "1FtKnjCyQLN0gj9ekhm8L",
+              "variantName": "Other"
+            }
+          ],
+          "productUrl": "https://cout.link/p/xbSAA"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "ACTIVE",
+          "bargainPercent": 10
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 1353,
+          "views": 168
+        },
+        "promotionRank": 0.995455,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1635766107007",
+          "categoryName": "Others",
+          "categoryStringArray": [
+            "beauty-make-up",
+            "others"
+          ],
+          "categoryIdArray": [
+            "1562391850639",
+            "1635766107007"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Other"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            449
+          ]
+        },
+        "lastUpdated": 1676988066,
+        "lastSyncTime": 1676988066
+      },
+      "sort": [
+        0,
+        12254089
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "4qb_OoYBO3q-w-DMH-OA",
+      "_score": null,
+      "_source": {
+        "productId": 12248011,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668722137,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 3645950,
+          "name": "Mudassar Azad Mr.Classic",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "9932327676",
+          "city": "Beldanga",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 631679,
+            "pincode": "742133"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_4up87xcz25c_1668721777613.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_inbsa0w8cwa_1668721777721.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_058hk3jvns1i_1668721777648.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_em65vkeexbc_1668721777762.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_4up87xcz25c_1668721777613.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_inbsa0w8cwa_1668721777721.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_058hk3jvns1i_1668721777648.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_em65vkeexbc_1668721777762.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_4up87xcz25c_1668721777613.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_inbsa0w8cwa_1668721777721.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_058hk3jvns1i_1668721777648.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_em65vkeexbc_1668721777762.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "DJI OSMO GIMBAL",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "White",
+              "key": "color"
+            },
+            {
+              "value": null,
+              "key": "country of origin"
+            },
+            {
+              "value": "OTHER",
+              "key": "brand"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 1,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 20,
+                "commisionPercent": 10,
+                "userEarning": 7150,
+                "listedPrice": 8000,
+                "commision": 800,
+                "labelPrice": 9990
+              },
+              "sku": "kjKHHdavb_Id6oa86KAs2",
+              "variantName": "White"
+            }
+          ],
+          "productUrl": "https://cout.link/p/Gcarp",
+          "description": "Brand New condition",
+          "imageRating": null
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "isCurated": 1,
+        "promoted": 1,
+        "sellerLastUpdated": 1668771086,
+        "sellerLastUpdatedValue": 1,
+        "promotionDetails": {
+          "impressions": 3454,
+          "views": 386
+        },
+        "promotionRank": 0.990527,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562397567994",
+          "categoryName": "Selfie Stick",
+          "categoryStringArray": [
+            "Electronics",
+            "Mobile Phones & Accessories",
+            "Selfie Stick"
+          ],
+          "categoryIdArray": [
+            "1562395100193",
+            "1562395214828"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "White"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            8000
+          ]
+        },
+        "lastUpdated": 1676982286,
+        "lastSyncTime": 1676982286
+      },
+      "sort": [
+        0,
+        12248011
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Nqb_OoYBO3q-w-DMIeSd",
+      "_score": null,
+      "_source": {
+        "productId": 12247452,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668704769,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9619298,
+          "name": "Jindal Communication",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7015858805",
+          "city": "Rohtak",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171979,
+            "pincode": "124001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_z3pgvcudets_1668704608927.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_73mosmz077q_1668704639601.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_z3pgvcudets_1668704608927.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_73mosmz077q_1668704639601.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_z3pgvcudets_1668704608927.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_73mosmz077q_1668704639601.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "RajShri 2.4A Fast Charger",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "new"
+            },
+            {
+              "key": "color",
+              "value": "Black"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "RXv-fB1ZHy-RdobuiNYxW",
+              "variantName": "Black",
+              "priceDetails": {
+                "labelPrice": 799,
+                "listedPrice": 399,
+                "percentOff": 50,
+                "commisionPercent": 9,
+                "commision": 36,
+                "pickupCharges": 50,
+                "userEarning": 313
+              },
+              "quantity": 5
+            }
+          ],
+          "productUrl": "https://cout.link/p/zQAsi"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "ACTIVE",
+          "bargainPercent": 10
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668705081,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 4095,
+          "views": 482
+        },
+        "promotionRank": 0.989524,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562396672260",
+          "categoryName": "Mobile Charger",
+          "categoryStringArray": [
+            "electronics",
+            "mobile-charger"
+          ],
+          "categoryIdArray": [
+            "1562395100193",
+            "1562396672260"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Black"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            399
+          ]
+        },
+        "lastUpdated": 1676027044,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12247452
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "O6b_OoYBO3q-w-DMIeS7",
+      "_score": null,
+      "_source": {
+        "productId": 12247446,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668704459,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9619298,
+          "name": "Jindal Communication",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7015858805",
+          "city": "Rohtak",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171979,
+            "pincode": "124001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_j2u2j74ulxf_1668703738543.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_fdkcco7xil_1668703738988.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_c1dkecguy97_1668704428923.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_j2u2j74ulxf_1668703738543.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_fdkcco7xil_1668703738988.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_c1dkecguy97_1668704428923.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_j2u2j74ulxf_1668703738543.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_fdkcco7xil_1668703738988.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_c1dkecguy97_1668704428923.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Ambrane Type C Data Cable (set of 2) (Pack of 2)",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "new"
+            },
+            {
+              "key": "color",
+              "value": "Black"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "3NHCGlUGmnHGSKna2VIQK",
+              "variantName": "Black",
+              "priceDetails": {
+                "labelPrice": 598,
+                "listedPrice": 499,
+                "percentOff": 17,
+                "commisionPercent": 9,
+                "commision": 45,
+                "pickupCharges": 50,
+                "userEarning": 404
+              },
+              "quantity": 3
+            }
+          ],
+          "productUrl": "https://cout.link/p/knTWT"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "ACTIVE",
+          "bargainPercent": 10
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668705066,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3887,
+          "views": 469
+        },
+        "promotionRank": 0.994425,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562396857669",
+          "categoryName": "USB Cables",
+          "categoryStringArray": [
+            "electronics",
+            "usb-cables"
+          ],
+          "categoryIdArray": [
+            "1562395100193",
+            "1562396857669"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Black"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            499
+          ]
+        },
+        "lastUpdated": 1676027044,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12247446
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Rqb_OoYBO3q-w-DMIuQ4",
+      "_score": null,
+      "_source": {
+        "productId": 12247428,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668703721,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9619298,
+          "name": "Jindal Communication",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7015858805",
+          "city": "Rohtak",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171979,
+            "pincode": "124001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m5auff3uc8_1668703555543.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_zcjs1tkj2hp_1668703555850.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m5auff3uc8_1668703555543.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_zcjs1tkj2hp_1668703555850.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m5auff3uc8_1668703555543.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_zcjs1tkj2hp_1668703555850.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Ambrane Type C Data Cable",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "new"
+            },
+            {
+              "key": "color",
+              "value": "Black"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "VjwF6w6nsqHAzR0ssZKuA",
+              "variantName": "Black",
+              "priceDetails": {
+                "labelPrice": 299,
+                "listedPrice": 249,
+                "percentOff": 17,
+                "commisionPercent": 9,
+                "commision": 23,
+                "pickupCharges": 50,
+                "userEarning": 176
+              },
+              "quantity": 5
+            }
+          ],
+          "productUrl": "https://cout.link/p/ON9jA"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "ACTIVE",
+          "bargainPercent": 10
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668705081,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3957,
+          "views": 492
+        },
+        "promotionRank": 0.995622,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562396857669",
+          "categoryName": "USB Cables",
+          "categoryStringArray": [
+            "electronics",
+            "usb-cables"
+          ],
+          "categoryIdArray": [
+            "1562395100193",
+            "1562396857669"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Black"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            249
+          ]
+        },
+        "lastUpdated": 1676027044,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12247428
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Lqb_OoYBO3q-w-DMKuXw",
+      "_score": null,
+      "_source": {
+        "productId": 12245969,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668678859,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9637238,
+          "name": "Samadrita Sikder ",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "samadritasikder@gmail.com",
+          "mobile": "9073548930",
+          "city": "Kolkata",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171964,
+            "pincode": "700034"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_o13rg787shn_1668678551501.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_l1aoae9fh9f_1668678552489.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_799h03eu2s9_1668678553276.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_o13rg787shn_1668678551501.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_l1aoae9fh9f_1668678552489.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_799h03eu2s9_1668678553276.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_o13rg787shn_1668678551501.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_l1aoae9fh9f_1668678552489.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_799h03eu2s9_1668678553276.jpeg"
+          ],
+          "videoId": "sWzd3B0ocEfrnIGVwG3oB",
+          "videos": [
+            "https://coutloot-videos.projectx38.cloud/videosTest/en1n48h34r8_1668678553887_trimmed_video_2022_10_17_15_15_8.mp4/1668678553887_trimmed_video_2022_10_17_15_15_8.mp4_.m3u8"
+          ],
+          "videoThumbs": [
+            "https://cdn1.coutloot.com/videoThumbnails/afuh6vcedu_1668678574902.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Beautiful Vintage Gothic Maxi Dress ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Black",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 1,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 26,
+                "commisionPercent": 10,
+                "userEarning": 950,
+                "listedPrice": 1111,
+                "commision": 111,
+                "labelPrice": 1599
+              },
+              "sku": "v53LEi_vdT0hX4xoUw1SR",
+              "variantName": "L"
+            }
+          ],
+          "productUrl": "https://cout.link/p/WnG9r",
+          "description": "style: vintage, gothic  \nmaterial: georgette \nneck: keyhole\ncolour: black\ndesign: white polka dots\nadditional: fringes \nbust: 38\nlength: maxi"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668876801,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 0,
+        "promotionRank": 0.994118,
+        "promotionDetails": {
+          "impressions": 2496,
+          "views": 289
+        },
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562345611551",
+          "categoryName": "Dresses",
+          "categoryStringArray": [
+            "womens-fashion",
+            "dresses",
+            "dresses"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562345611551",
+            "1562345611551"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "L"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            1111
+          ]
+        },
+        "lastUpdated": 1676982493,
+        "lastSyncTime": 1676982493
+      },
+      "sort": [
+        0,
+        12245969
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "C6b_OoYBO3q-w-DMNOZT",
+      "_score": null,
+      "_source": {
+        "productId": 12245153,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668625400,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9619298,
+          "name": "CoutlootUser",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7015858805",
+          "city": "Rohtak",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171979,
+            "pincode": "124001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_s47wbd0fnm_1668625171193.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_vyfjxdtrbf_1668625171511.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_s47wbd0fnm_1668625171193.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_vyfjxdtrbf_1668625171511.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_s47wbd0fnm_1668625171193.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_vyfjxdtrbf_1668625171511.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Eliide Micro usb data cable 1 Meter",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "new"
+            },
+            {
+              "key": "color",
+              "value": "White"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "ZPWxsnwcEEU_aCuqB2JuT",
+              "variantName": "White",
+              "priceDetails": {
+                "labelPrice": 799,
+                "listedPrice": 199,
+                "percentOff": 75,
+                "commisionPercent": 9,
+                "commision": 18,
+                "pickupCharges": 50,
+                "userEarning": 131
+              },
+              "quantity": 9
+            }
+          ],
+          "productUrl": "https://cout.link/p/cPSzD"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "ACTIVE",
+          "bargainPercent": 20
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668705081,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 4292,
+          "views": 479
+        },
+        "promotionRank": 0.994029,
+        "discoveryRank": 40,
+        "productRank": 40,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562396857669",
+          "categoryName": "USB Cables",
+          "categoryStringArray": [
+            "electronics",
+            "usb-cables"
+          ],
+          "categoryIdArray": [
+            "1562395100193",
+            "1562396857669"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "White"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "NA",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676027049,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12245153
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "EKb_OoYBO3q-w-DMNOZ6",
+      "_score": null,
+      "_source": {
+        "productId": 12245147,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668624624,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9637307,
+          "name": "Mahima Katyal",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "mahima.arora7007@yahoo.in",
+          "mobile": "9888820477",
+          "city": "JALANDHAR",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171965,
+            "pincode": "144001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_erlvejdxcsf_1668624357957.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_3ubdieeb0x5_1668624359715.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_i6esdpctbhj_1668624359849.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_lrxtcbi61ri_1668624360106.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_erlvejdxcsf_1668624357957.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_3ubdieeb0x5_1668624359715.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_i6esdpctbhj_1668624359849.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_lrxtcbi61ri_1668624360106.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_erlvejdxcsf_1668624357957.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_3ubdieeb0x5_1668624359715.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_i6esdpctbhj_1668624359849.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_lrxtcbi61ri_1668624360106.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "vacay midi dress",
+          "condition": "NEW",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "NEW"
+            },
+            {
+              "key": "color",
+              "value": "Other"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "Msxbcs-NzVGD3TEadzB7o",
+              "variantName": "S",
+              "priceDetails": {
+                "labelPrice": 6000,
+                "listedPrice": 3000,
+                "percentOff": 50,
+                "commisionPercent": 9,
+                "commision": 270,
+                "pickupCharges": 50,
+                "userEarning": 2680
+              },
+              "quantity": 1
+            }
+          ],
+          "productUrl": "https://cout.link/p/QR9uP",
+          "description": "pre-owned"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "promoted": 0,
+        "promotionDetails": {
+          "impressions": 2653,
+          "views": 286
+        },
+        "promotionRank": 0.997775,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562345611551",
+          "categoryName": "Dresses",
+          "categoryStringArray": [
+            "womens-fashion",
+            "dresses",
+            "dresses"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562345611551",
+            "1562345611551"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "S"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            3000
+          ]
+        },
+        "lastUpdated": 1676027049,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12245147
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "E6b_OoYBO3q-w-DMNOaL",
+      "_score": null,
+      "_source": {
+        "productId": 12245144,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668624079,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9637307,
+          "name": "Mahima Katyal",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "mahima.arora7007@yahoo.in",
+          "mobile": "9888820477",
+          "city": "JALANDHAR",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171965,
+            "pincode": "144001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_4us3jblqgh9_1668623936290.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_224hoxs8az_1668623937750.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_d7tgmgu196q_1668623937908.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_enj3ob1nakp_1668623938101.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_4us3jblqgh9_1668623936290.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_224hoxs8az_1668623937750.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_d7tgmgu196q_1668623937908.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_enj3ob1nakp_1668623938101.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_4us3jblqgh9_1668623936290.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_224hoxs8az_1668623937750.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_d7tgmgu196q_1668623937908.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_enj3ob1nakp_1668623938101.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "metallic purple split skirt and bodysuit",
+          "condition": "NEW",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "NEW"
+            },
+            {
+              "key": "color",
+              "value": "Purple"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "J_ILzKyy5a_WvGq4a13S1",
+              "variantName": "M",
+              "priceDetails": {
+                "labelPrice": 9000,
+                "listedPrice": 4000,
+                "percentOff": 56,
+                "commisionPercent": 9,
+                "commision": 360,
+                "pickupCharges": 50,
+                "userEarning": 3590
+              },
+              "quantity": 1
+            }
+          ],
+          "productUrl": "https://cout.link/p/T78w5",
+          "description": "pre-owned"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "promoted": 0,
+        "promotionDetails": {
+          "impressions": 2558,
+          "views": 305
+        },
+        "promotionRank": 0.996833,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562345782038",
+          "categoryName": "Co-Ords & Two-piece Sets",
+          "categoryStringArray": [
+            "womens-fashion",
+            "dresses",
+            "co-ords-two-piece-sets"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562345611551",
+            "1562345782038"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "M"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            4000
+          ]
+        },
+        "lastUpdated": 1676027049,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12245144
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "F6b_OoYBO3q-w-DMNOam",
+      "_score": null,
+      "_source": {
+        "productId": 12245139,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668623437,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9637307,
+          "name": "CoutlootUser",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "9888820477",
+          "city": "JALANDHAR",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171965,
+            "pincode": "144001"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qcb7ucn9a9_1668623139017.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_1agvhi4gt5d_1668623140578.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_5dgcybclx5r_1668623140775.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qcb7ucn9a9_1668623139017.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_1agvhi4gt5d_1668623140578.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_5dgcybclx5r_1668623140775.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qcb7ucn9a9_1668623139017.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_1agvhi4gt5d_1668623140578.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_5dgcybclx5r_1668623140775.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "green two piece set",
+          "condition": "NEW",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "key": "condition",
+              "value": "NEW"
+            },
+            {
+              "key": "color",
+              "value": "Green"
+            },
+            {
+              "key": "country of origin",
+              "value": "India"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "sku": "mL11MhtIW4LVJVTov-vQb",
+              "variantName": "S",
+              "priceDetails": {
+                "labelPrice": 14000,
+                "listedPrice": 6000,
+                "percentOff": 57,
+                "commisionPercent": 9,
+                "commision": 540,
+                "pickupCharges": 50,
+                "userEarning": 5410
+              },
+              "quantity": 1
+            }
+          ],
+          "productUrl": "https://cout.link/p/e6ld1",
+          "description": "pre-owned"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "promoted": 0,
+        "promotionDetails": {
+          "impressions": 2748,
+          "views": 290
+        },
+        "promotionRank": 0.985261,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562345782038",
+          "categoryName": "Co-Ords & Two-piece Sets",
+          "categoryStringArray": [
+            "womens-fashion",
+            "dresses",
+            "co-ords-two-piece-sets"
+          ],
+          "categoryIdArray": [
+            "1562345039996",
+            "1562345611551",
+            "1562345782038"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "S"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Female",
+          "price": [
+            6000
+          ]
+        },
+        "lastUpdated": 1676027049,
+        "lastSyncTime": 1676027004
+      },
+      "sort": [
+        0,
+        12245139
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Q6b_OoYBO3q-w-DMNeai",
+      "_score": null,
+      "_source": {
+        "productId": 12245038,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616846,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_i5v4r13qg8_1668616783474.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_i5v4r13qg8_1668616783474.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_i5v4r13qg8_1668616783474.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch With Fre",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Grey",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 81,
+                "commisionPercent": 10,
+                "userEarning": 174,
+                "listedPrice": 249,
+                "commision": 25,
+                "labelPrice": 1299
+              },
+              "sku": "HLEdSiM4bxKQC-jq50Wfy",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/Siy1b"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843518,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2800,
+          "views": 373
+        },
+        "promotionRank": 0.994225,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            249
+          ]
+        },
+        "lastUpdated": 1676985006,
+        "lastSyncTime": 1676985006
+      },
+      "sort": [
+        0,
+        12245038
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "RKb_OoYBO3q-w-DMNean",
+      "_score": null,
+      "_source": {
+        "productId": 12245037,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616845,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_q8007775ky_1668616765942.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_q8007775ky_1668616765942.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_q8007775ky_1668616765942.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch With Fre",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Navy Blue",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 81,
+                "commisionPercent": 10,
+                "userEarning": 174,
+                "listedPrice": 249,
+                "commision": 25,
+                "labelPrice": 1299
+              },
+              "sku": "US03ovUJQcCyciC9mbSQ_",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/3AtBW"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2881,
+          "views": 351
+        },
+        "promotionRank": 0.988927,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            249
+          ]
+        },
+        "lastUpdated": 1676985006,
+        "lastSyncTime": 1676985006
+      },
+      "sort": [
+        0,
+        12245037
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Rab_OoYBO3q-w-DMNeat",
+      "_score": null,
+      "_source": {
+        "productId": 12245036,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616844,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qtp2th2x18k_1668616739113.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qtp2th2x18k_1668616739113.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qtp2th2x18k_1668616739113.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch With Fre",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Black",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 81,
+                "commisionPercent": 10,
+                "userEarning": 174,
+                "listedPrice": 249,
+                "commision": 25,
+                "labelPrice": 1299
+              },
+              "sku": "2uE9l4Hr3X_sPwYSf7So1",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/6Nj8f"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2839,
+          "views": 369
+        },
+        "promotionRank": 0.958499,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            249
+          ]
+        },
+        "lastUpdated": 1676985006,
+        "lastSyncTime": 1676985006
+      },
+      "sort": [
+        0,
+        12245036
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Rqb_OoYBO3q-w-DMNeaz",
+      "_score": null,
+      "_source": {
+        "productId": 12245035,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616844,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_3vz8b7yeay9_1668616653815.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_3vz8b7yeay9_1668616653815.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_3vz8b7yeay9_1668616653815.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch With Fre",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "White",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 81,
+                "commisionPercent": 10,
+                "userEarning": 174,
+                "listedPrice": 249,
+                "commision": 25,
+                "labelPrice": 1299
+              },
+              "sku": "-6IDFiJFlMAnkd71O36KM",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/rpySi"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2765,
+          "views": 316
+        },
+        "promotionRank": 0.951905,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            249
+          ]
+        },
+        "lastUpdated": 1676985006,
+        "lastSyncTime": 1676985006
+      },
+      "sort": [
+        0,
+        12245035
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Tqb_OoYBO3q-w-DMNebk",
+      "_score": null,
+      "_source": {
+        "productId": 12245027,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616573,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_1j2g85bvq7x_1668616561033.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_1j2g85bvq7x_1668616561033.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_1j2g85bvq7x_1668616561033.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Grey",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 85,
+                "commisionPercent": 10,
+                "userEarning": 129,
+                "listedPrice": 199,
+                "commision": 20,
+                "labelPrice": 1299
+              },
+              "sku": "u-PnZ1k4bkL4ls8o997N5",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/Vx3vZ"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2835,
+          "views": 335
+        },
+        "promotionRank": 0.968759,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676985006,
+        "lastSyncTime": 1676985006
+      },
+      "sort": [
+        0,
+        12245027
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "UKb_OoYBO3q-w-DMNeby",
+      "_score": null,
+      "_source": {
+        "productId": 12245025,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616572,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_tdpv84qjlzj_1668616514564.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_tdpv84qjlzj_1668616514564.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_tdpv84qjlzj_1668616514564.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Red",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 85,
+                "commisionPercent": 10,
+                "userEarning": 129,
+                "listedPrice": 199,
+                "commision": 20,
+                "labelPrice": 1299
+              },
+              "sku": "IefH5-9LdOpKgEYiFERLe",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/jJJ05"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2941,
+          "views": 341
+        },
+        "promotionRank": 0.951714,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676985006,
+        "lastSyncTime": 1676985006
+      },
+      "sort": [
+        0,
+        12245025
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Uqb_OoYBO3q-w-DMNeb_",
+      "_score": null,
+      "_source": {
+        "productId": 12245023,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616572,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_npcppzr0z5g_1668616491419.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_npcppzr0z5g_1668616491419.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_npcppzr0z5g_1668616491419.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Green",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 85,
+                "commisionPercent": 10,
+                "userEarning": 129,
+                "listedPrice": 199,
+                "commision": 20,
+                "labelPrice": 1299
+              },
+              "sku": "gq-IalUnlWG6Cw-03i1Ir",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/kyf42"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3051,
+          "views": 353
+        },
+        "promotionRank": 0.967097,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676985006,
+        "lastSyncTime": 1676985006
+      },
+      "sort": [
+        0,
+        12245023
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "VKb_OoYBO3q-w-DMNuYS",
+      "_score": null,
+      "_source": {
+        "productId": 12245021,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616571,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_2xp3cg3kka6_1668616391257.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_2xp3cg3kka6_1668616391257.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_2xp3cg3kka6_1668616391257.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Adi Style Square Dial Man Analogue Watch ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "White",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 85,
+                "commisionPercent": 10,
+                "userEarning": 129,
+                "listedPrice": 199,
+                "commision": 20,
+                "labelPrice": 1299
+              },
+              "sku": "HMX6MGiKTmAqn4H7NP4Rh",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/fYDxT"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2951,
+          "views": 329
+        },
+        "promotionRank": 0.952062,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12245021
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Wab_OoYBO3q-w-DMNuZe",
+      "_score": null,
+      "_source": {
+        "productId": 12245016,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616329,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_0akhittyj4ld_1668616308187.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_0akhittyj4ld_1668616308187.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_0akhittyj4ld_1668616308187.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Avenger Stylish Black Dial Man And Boys Analogue ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Brown",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 80,
+                "commisionPercent": 10,
+                "userEarning": 129,
+                "listedPrice": 199,
+                "commision": 20,
+                "labelPrice": 999
+              },
+              "sku": "Hj4O4UzqydDSEaCCHBy3H",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/OvGAO"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2867,
+          "views": 331
+        },
+        "promotionRank": 0.957806,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12245016
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Wqb_OoYBO3q-w-DMNuZl",
+      "_score": null,
+      "_source": {
+        "productId": 12245015,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616328,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_6mgj58rrgop_1668616274980.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_6mgj58rrgop_1668616274980.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_6mgj58rrgop_1668616274980.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Avenger Stylish Black Dial Man And Boys Analogue ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Blue",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 80,
+                "commisionPercent": 10,
+                "userEarning": 129,
+                "listedPrice": 199,
+                "commision": 20,
+                "labelPrice": 999
+              },
+              "sku": "DvbWvTqWXu6UTGkMh_Ux9",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/Z4pvU"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2999,
+          "views": 364
+        },
+        "promotionRank": 0.970218,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12245015
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "W6b_OoYBO3q-w-DMNuZr",
+      "_score": null,
+      "_source": {
+        "productId": 12245014,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616327,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_rhus617nvi_1668616194387.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_rhus617nvi_1668616194387.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_rhus617nvi_1668616194387.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Avenger Stylish Black Dial Man And Boys Analogue ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Black",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 80,
+                "commisionPercent": 10,
+                "userEarning": 129,
+                "listedPrice": 199,
+                "commision": 20,
+                "labelPrice": 999
+              },
+              "sku": "1qKK0AUVURZS2--xRsg79",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/sA3FI"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2891,
+          "views": 358
+        },
+        "promotionRank": 0.97064,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            199
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12245014
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Xqb_OoYBO3q-w-DMNuZ7",
+      "_score": null,
+      "_source": {
+        "productId": 12245011,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616154,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_kt6yc4rkg7q_1668616118661.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_u6jbngdfmcc_1668616122341.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_kt6yc4rkg7q_1668616118661.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_u6jbngdfmcc_1668616122341.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_kt6yc4rkg7q_1668616118661.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_u6jbngdfmcc_1668616122341.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Latest ButterFly Women Analog Watche ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Red",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 81,
+                "commisionPercent": 10,
+                "userEarning": 120,
+                "listedPrice": 189,
+                "commision": 19,
+                "labelPrice": 999
+              },
+              "sku": "8WxgGtfKZPIAv71gDHh9c",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/qf8vE"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3012,
+          "views": 347
+        },
+        "promotionRank": 0.987499,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            189
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12245011
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "X6b_OoYBO3q-w-DMNuaB",
+      "_score": null,
+      "_source": {
+        "productId": 12245010,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616153,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_gw0n8tve5l_1668616082057.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_mroz1ed96tr_1668616084375.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_gw0n8tve5l_1668616082057.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_mroz1ed96tr_1668616084375.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_gw0n8tve5l_1668616082057.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_mroz1ed96tr_1668616084375.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Latest ButterFly Women Analog Watche ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "White",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 81,
+                "commisionPercent": 10,
+                "userEarning": 120,
+                "listedPrice": 189,
+                "commision": 19,
+                "labelPrice": 999
+              },
+              "sku": "gu_gnU5UHzj11NJInoOGB",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/1UXZ0"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2890,
+          "views": 364
+        },
+        "promotionRank": 0.95785,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            189
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12245010
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "YKb_OoYBO3q-w-DMNuaH",
+      "_score": null,
+      "_source": {
+        "productId": 12245009,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668616152,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_rzjwv1737o7_1668616008734.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_2pfn53u7e1b_1668616008952.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_rzjwv1737o7_1668616008734.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_2pfn53u7e1b_1668616008952.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_rzjwv1737o7_1668616008734.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_2pfn53u7e1b_1668616008952.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Latest ButterFly Women Analog Watche ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Purple",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 81,
+                "commisionPercent": 10,
+                "userEarning": 120,
+                "listedPrice": 189,
+                "commision": 19,
+                "labelPrice": 999
+              },
+              "sku": "d4Yu3DcxaiTeiscaBB7jp",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/b5MPY"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3007,
+          "views": 332
+        },
+        "promotionRank": 0.95513,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            189
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12245009
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "ZKb_OoYBO3q-w-DMNuae",
+      "_score": null,
+      "_source": {
+        "productId": 12244955,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668615319,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_1e73mxjb6efi_1668615112592.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_1e73mxjb6efi_1668615112592.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_1e73mxjb6efi_1668615112592.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Man Avenger Infinity Dial Watch Combo Pack Of 2 ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Brown",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 70,
+                "commisionPercent": 10,
+                "userEarning": 219,
+                "listedPrice": 299,
+                "commision": 30,
+                "labelPrice": 999
+              },
+              "sku": "LuXRoYUcwqfhmpTT5XqrR",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/QtFqd"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3000,
+          "views": 331
+        },
+        "promotionRank": 0.990743,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            299
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244955
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Zab_OoYBO3q-w-DMNuak",
+      "_score": null,
+      "_source": {
+        "productId": 12244954,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668615318,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m6r9pzohorl_1668615097341.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m6r9pzohorl_1668615097341.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m6r9pzohorl_1668615097341.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Man Avenger Infinity Dial Watch Combo Pack Of 2 ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Blue",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 70,
+                "commisionPercent": 10,
+                "userEarning": 219,
+                "listedPrice": 299,
+                "commision": 30,
+                "labelPrice": 999
+              },
+              "sku": "ta1nUzOp9plE9VMkjfYlw",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/ib0Kc"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3031,
+          "views": 315
+        },
+        "promotionRank": 0.956216,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            299
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244954
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Zqb_OoYBO3q-w-DMNuar",
+      "_score": null,
+      "_source": {
+        "productId": 12244953,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668615317,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_ktb5si2ivof_1668615257799.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_ktb5si2ivof_1668615257799.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_ktb5si2ivof_1668615257799.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Man Avenger Infinity Dial Watch Combo Pack Of 2 ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Off-white",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 75,
+                "commisionPercent": 10,
+                "userEarning": 219,
+                "listedPrice": 299,
+                "commision": 30,
+                "labelPrice": 999
+              },
+              "sku": "Vai9gRoOz2Yup3ewsAw3c",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/okbwE"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2871,
+          "views": 355
+        },
+        "promotionRank": 0.998474,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            299
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244953
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "Z6b_OoYBO3q-w-DMNuay",
+      "_score": null,
+      "_source": {
+        "productId": 12244952,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668615317,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_viniu3302c_1668615152701.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_viniu3302c_1668615152701.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_viniu3302c_1668615152701.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Man Avenger Infinity Dial Watch Combo Pack Of 2 ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Navy Blue",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 75,
+                "commisionPercent": 10,
+                "userEarning": 219,
+                "listedPrice": 299,
+                "commision": 30,
+                "labelPrice": 999
+              },
+              "sku": "DtjVG07iiOFMAo-iLc0-r",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/OvVA4"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2883,
+          "views": 341
+        },
+        "promotionRank": 0.972619,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            299
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244952
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "aKb_OoYBO3q-w-DMNua6",
+      "_score": null,
+      "_source": {
+        "productId": 12244951,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668615316,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qqmds84kqsf_1668615131515.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qqmds84kqsf_1668615131515.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_qqmds84kqsf_1668615131515.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Man Avenger Infinity Dial Watch Combo Pack Of 2 ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Charcoal Grey",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 75,
+                "commisionPercent": 10,
+                "userEarning": 219,
+                "listedPrice": 299,
+                "commision": 30,
+                "labelPrice": 999
+              },
+              "sku": "7fuEDgdsQrVDiQCxM90Z6",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/JaLuo"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2768,
+          "views": 355
+        },
+        "promotionRank": 0.961989,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            299
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244951
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "aab_OoYBO3q-w-DMNubC",
+      "_score": null,
+      "_source": {
+        "productId": 12244950,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668615315,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_5d52kpehbv_1668614974199.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_5d52kpehbv_1668614974199.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_5d52kpehbv_1668614974199.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Man Avenger Infinity Dial Watch Combo Pack Of 2 ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Black",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 70,
+                "commisionPercent": 10,
+                "userEarning": 219,
+                "listedPrice": 299,
+                "commision": 30,
+                "labelPrice": 999
+              },
+              "sku": "oIrBYjOCph_k-0PM1Sful",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/ZMqVI"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3050,
+          "views": 321
+        },
+        "promotionRank": 0.951448,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            299
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244950
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "bqb_OoYBO3q-w-DMNubg",
+      "_score": null,
+      "_source": {
+        "productId": 12244944,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668614864,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_jxvi3zoqf5_1668614783187.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_ph1ruz7s8n_1668614784372.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_xolb35rsll_1668614784935.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_jxvi3zoqf5_1668614783187.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_ph1ruz7s8n_1668614784372.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_xolb35rsll_1668614784935.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_jxvi3zoqf5_1668614783187.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_ph1ruz7s8n_1668614784372.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_xolb35rsll_1668614784935.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Black Arrow Man Black Luxury Analogue Watch ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Black",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 100,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 83,
+                "commisionPercent": 10,
+                "userEarning": 174,
+                "listedPrice": 249,
+                "commision": 25,
+                "labelPrice": 1499
+              },
+              "sku": "XgCQSmrK04DIlhs0oWWr7",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/hGyya"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3086,
+          "views": 347
+        },
+        "promotionRank": 0.982185,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            249
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244944
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "e6b_OoYBO3q-w-DMN-Yy",
+      "_score": null,
+      "_source": {
+        "productId": 12244923,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668613551,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_btmpzuwdb46_1668613200232.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_n468h3pt3s8_1668613204241.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_btmpzuwdb46_1668613200232.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_n468h3pt3s8_1668613204241.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_btmpzuwdb46_1668613200232.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_n468h3pt3s8_1668613204241.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Latest Stylish Man Man SQARE Dial Analogue Round ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "Peach Orange",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 1,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 73,
+                "commisionPercent": 10,
+                "userEarning": 309,
+                "listedPrice": 399,
+                "commision": 40,
+                "labelPrice": 1499
+              },
+              "sku": "H_bQqS9D28xMa_Cdw6IOi",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/k2gV1"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 2969,
+          "views": 343
+        },
+        "promotionRank": 0.962394,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            399
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244923
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "fKb_OoYBO3q-w-DMN-Y4",
+      "_score": null,
+      "_source": {
+        "productId": 12244922,
+        "listingType": "SELF_SHIPPING",
+        "productType": "REGULER",
+        "status": "APPROVED",
+        "listedOn": 1668613550,
+        "returnStatus": 0,
+        "returnDays": 0,
+        "quantity": 1,
+        "sellerDetails": {
+          "userId": 9635412,
+          "name": "Kajal Enterprise",
+          "profilePic": "https://cdn2.coutloot.com/images/newAPP/userProfiles/C.png",
+          "email": "NA",
+          "mobile": "7990906605",
+          "city": "Saniya Kande",
+          "role": "USER",
+          "verified": 0,
+          "location": {
+            "pickupAddressId": 1171799,
+            "pincode": "394210"
+          }
+        },
+        "images": {
+          "submittedImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m47bevwhohh_1668613097371.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_w8xjj27o8n_1668613101986.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_sedy8tftzmb_1668613108048.jpeg"
+          ],
+          "mainImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m47bevwhohh_1668613097371.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_w8xjj27o8n_1668613101986.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_sedy8tftzmb_1668613108048.jpeg"
+          ],
+          "thumbImages": [
+            "https://cdn1.coutloot.com/listingImages/image_m47bevwhohh_1668613097371.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_w8xjj27o8n_1668613101986.jpeg",
+            "https://cdn1.coutloot.com/listingImages/image_sedy8tftzmb_1668613108048.jpeg"
+          ]
+        },
+        "videos": [],
+        "details": {
+          "title": "Latest Stylish Man Man SQARE Dial Analogue Round ",
+          "condition": "new",
+          "brand": "OTHER",
+          "variantAttribute": "size",
+          "productAttributes": [
+            {
+              "value": "new",
+              "key": "condition"
+            },
+            {
+              "value": "White",
+              "key": "color"
+            },
+            {
+              "value": "India",
+              "key": "country of origin"
+            }
+          ],
+          "variants": [
+            {
+              "default": 1,
+              "quantity": 1,
+              "priceDetails": {
+                "pickupCharges": 50,
+                "percentOff": 73,
+                "commisionPercent": 10,
+                "userEarning": 309,
+                "listedPrice": 399,
+                "commision": 40,
+                "labelPrice": 1499
+              },
+              "sku": "9B5yX4VP6IC1VwtM9YZOB",
+              "variantName": "Standard"
+            }
+          ],
+          "productUrl": "https://cout.link/p/aarKC"
+        },
+        "productCount": 1,
+        "varientCount": 1,
+        "collection": [],
+        "liveOn": "",
+        "serviceType": "newSellV2",
+        "autoBargain": {
+          "status": "INACTIVE",
+          "bargainPercent": 0
+        },
+        "__v": 0,
+        "autoApproved": 1,
+        "coutlootCurated": 0,
+        "sellerLastUpdated": 1668843524,
+        "sellerLastUpdatedValue": 1,
+        "promoted": 1,
+        "promotionDetails": {
+          "impressions": 3023,
+          "views": 355
+        },
+        "promotionRank": 0.959597,
+        "discoveryRank": 0,
+        "productRank": 0,
+        "uploadedBy": "ANDROID",
+        "category": {
+          "categoryId": "1562351887069",
+          "categoryName": "Watches",
+          "categoryStringArray": [
+            "mens-fashion",
+            "watches",
+            "watches"
+          ],
+          "categoryIdArray": [
+            "1562350094109",
+            "1562351887069",
+            "1562351887069"
+          ]
+        },
+        "aiData": {},
+        "filterParams": [
+          "size",
+          "color",
+          "condition",
+          "price",
+          "gender",
+          "country-of-origin"
+        ],
+        "filters": {
+          "size": [
+            "Standard"
+          ],
+          "color": "NA",
+          "condition": "New",
+          "gender": "Male",
+          "price": [
+            399
+          ]
+        },
+        "lastUpdated": 1676985005,
+        "lastSyncTime": 1676985005
+      },
+      "sort": [
+        0,
+        12244922
+      ]
+    }
+  ],
+  "sortParams": [
+    {
+      "displayId": "TRENDING",
+      "displayIcon": "https://cdn1.coutloot.com/profileImages/image_q3qacnq9ne8_1648619600415.jpeg",
+      "displayTitle": "Trending",
+      "displayText": "Trending First"
+    },
+    {
+      "displayId": "PRICE_LOW_HIGH",
+      "displayIcon": "https://cdn1.coutloot.com/profileImages/image_j4b7odzmgcr_1648619517024.jpeg",
+      "displayTitle": "Price",
+      "displayText": "Low to High"
+    },
+    {
+      "displayId": "PRICE_HIGH_LOW",
+      "displayIcon": "https://cdn1.coutloot.com/profileImages/image_2ne3hh6yv04_1648619485275.jpeg",
+      "displayTitle": "Price",
+      "displayText": "High to Low"
+    }
+  ],
+  "filterParams": [
+    "Size",
+    "Color",
+    "Gender",
+    "Price",
+    "Condition"
+  ],
+  "currentPage": 0,
+  "nextPage": 1
+}
+
+
